@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: Beast Mode
+## Notes: Pet and Hawk box for Hunters: pet name, family and happiness, a flash and a count for every pet ability and Hawk, then the game's own damage-meter split of you, your pet and your Hawk. Blizzard sounds and textures only.
+## Author: Kenny
+## Version: 1.0.0
+## SavedVariables: KennyBeastModeDB
+## X-License: MIT
+## IconTexture: Interface\Icons\Ability_Hunter_AnimalHandler
+## X-Category: Combat
+## X-Website: https://github.com/masterred92/BeastMode
+
+Libs\KennyShared\Compat.lua
+Libs\KennyShared\Core.lua
+Libs\KennyShared\Hub.lua
+Locales\enUS.lua
+Themes.lua
+BeastMode.lua
+Frame.lua
